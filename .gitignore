@@ -2,3 +2,4 @@ mallet-2.0.8/*
 .ipynb_checkpoints/*
 dicts/*
 models/*
+mallet/*
