@@ -3,3 +3,4 @@ mallet-2.0.8/*
 dicts/*
 models/*
 mallet/*
+lda*
